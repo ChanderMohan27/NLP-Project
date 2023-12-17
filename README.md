@@ -13,6 +13,7 @@ This project aims to automate the classification of job advertisements using NLP
 - **Task 2:** Generating feature representations using bag-of-words and word embeddings.
 - **Task 3:** Building and evaluating machine learning models for job ad classification.
 - **Task 4:** Creating a user interface Web applicate where user can  automatic receive category recommendations by using machine learning model. 
+<img width="1440" alt="Screenshot 2023-12-15 at 10 55 42 am" src="https://github.com/ChanderMohan27/NLP-Project/assets/128381758/076a9ba6-1bc8-4eab-a299-2685086f2508">
 
 
 
@@ -22,6 +23,7 @@ This project aims to automate the classification of job advertisements using NLP
 - Browse job ads by category.
 - Access full descriptions of job ads from previews. 
 - Receive automatic category recommendations for new job listings
+
 
 
 ## Outputs
