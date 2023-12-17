@@ -12,6 +12,8 @@ This project aims to automate the classification of job advertisements using NLP
 - **Task 1:** Basic text preprocessing to clean job ad descriptions.
 - **Task 2:** Generating feature representations using bag-of-words and word embeddings.
 - **Task 3:** Building and evaluating machine learning models for job ad classification.
+- **Task 4:** Creating a user interface Web applicate where user can  automatic receive category recommendations by using machine learning model. 
+
 
 
 ## Features of Web Application
