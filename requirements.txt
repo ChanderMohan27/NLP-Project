@@ -1,0 +1,13 @@
+astor
+collections-extended
+gensim
+more-itertools
+nltk
+nltk.tokenize
+numpy
+os
+pandas
+re
+scikit-learn
+time
+xml
